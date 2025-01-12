@@ -1,0 +1,27 @@
+.mulog {
+width: 520px;
+height:  430px;
+top: 530px;
+left: 40px;
+border: 1px solid black;
+background-color: black;
+background-size: cover;
+background-position: center;
+position : relative;
+border-radius: 50px;
+padding: 20px;
+font-size: 20px;
+text-align: left;
+color: white;
+}
+      
+.muncul {
+object-fit: cover; 
+width: 630px;
+height:  1100px;
+top: 700px;
+background-image: url(https://i.ibb.co.com/9hrnyNp/Photoroom-20250112-143920.png);
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
